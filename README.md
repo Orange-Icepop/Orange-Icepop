@@ -1,6 +1,18 @@
-<h1>Orange-Icepop</h1>
+<h1>橙子冰棒 Orange-Icepop</h2>
+<p>一个一个一个成分极其复杂的社恐</p>
+<!--
+正在看代码的朋友们好，本人写HTML太长时间了，所以这个自述文件中会含有大量可以用MD写而用了HTML格式的内容，请各位见谅。
+本人还是初学者，所以代码中可能会有很多问题，这个MD文件就看看效果就行了，不建议拿来做MD学习参考。
+-->
 
-<!---
-Orange-Icepop/Orange-Icepop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>擅长的语言</h2>
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>C#</li>
+    <li>SQL</li>
+</ul>
+<h2>喜欢的音乐</h2>
+<ul>
+    <li>《The Scientist》</li>
+
